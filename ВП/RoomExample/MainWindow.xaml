@@ -1,0 +1,43 @@
+﻿<Window x:Class="RoomExample.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:RoomExample"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Label Content="Первая комната&#xD;&#xA;" HorizontalAlignment="Left" Margin="70,21,0,0" VerticalAlignment="Top"/>
+        <Label Content="Метраж" HorizontalAlignment="Left" Margin="70,300,0,0" VerticalAlignment="Top"/>
+        <Label Content="Площадь" HorizontalAlignment="Left" Margin="70,258,0,0" VerticalAlignment="Top"/>
+        <Label Content="Периметр" HorizontalAlignment="Left" Margin="70,217,0,0" VerticalAlignment="Top"/>
+        <Label Content="Число человек&#xD;&#xA;" HorizontalAlignment="Left" Margin="70,170,0,0" VerticalAlignment="Top"/>
+        <Label Content="Ширина" HorizontalAlignment="Left" Margin="70,121,0,0" VerticalAlignment="Top"/>
+        <Label Content="Длина&#xD;&#xA;" HorizontalAlignment="Left" Margin="70,76,0,0" VerticalAlignment="Top"/>
+        <Grid>
+            <Label Content="Первая комната&#xA;" HorizontalAlignment="Left" Margin="174,22,0,0" VerticalAlignment="Top"/>
+            <Label Content="Метраж" HorizontalAlignment="Left" Margin="174,301,0,0" VerticalAlignment="Top"/>
+            <Label Content="Площадь" HorizontalAlignment="Left" Margin="174,259,0,0" VerticalAlignment="Top"/>
+            <Label Content="Периметр" HorizontalAlignment="Left" Margin="174,218,0,0" VerticalAlignment="Top"/>
+            <Label Content="Число человек&#xA;" HorizontalAlignment="Left" Margin="174,171,0,0" VerticalAlignment="Top"/>
+            <Label Content="Ширина" HorizontalAlignment="Left" Margin="174,122,0,0" VerticalAlignment="Top"/>
+            <Label Content="Длина&#xA;" HorizontalAlignment="Left" Margin="174,77,0,0" VerticalAlignment="Top"/>
+            <Label Content="Первая комната&#xA;" HorizontalAlignment="Left" Margin="400,22,0,0" VerticalAlignment="Top"/>
+            <Label Content="Метраж" HorizontalAlignment="Left" Margin="400,301,0,0" VerticalAlignment="Top"/>
+            <Label Content="Площадь" HorizontalAlignment="Left" Margin="400,259,0,0" VerticalAlignment="Top"/>
+            <Label Content="Периметр" HorizontalAlignment="Left" Margin="400,218,0,0" VerticalAlignment="Top"/>
+            <Label Content="Число человек&#xA;" HorizontalAlignment="Left" Margin="400,171,0,0" VerticalAlignment="Top"/>
+            <Label Content="Ширина" HorizontalAlignment="Left" Margin="400,122,0,0" VerticalAlignment="Top"/>
+            <Label Content="Длина&#xA;" HorizontalAlignment="Left" Margin="400,77,0,0" VerticalAlignment="Top"/>
+            <Label Content="Первая комната&#xA;" HorizontalAlignment="Left" Margin="521,22,0,0" VerticalAlignment="Top"/>
+            <Label Content="Метраж" HorizontalAlignment="Left" Margin="521,301,0,0" VerticalAlignment="Top"/>
+            <Label Content="Площадь" HorizontalAlignment="Left" Margin="521,259,0,0" VerticalAlignment="Top"/>
+            <Label Content="Периметр" HorizontalAlignment="Left" Margin="521,218,0,0" VerticalAlignment="Top"/>
+            <Label Content="Число человек&#xA;" HorizontalAlignment="Left" Margin="521,171,0,0" VerticalAlignment="Top"/>
+            <Label Content="Ширина" HorizontalAlignment="Left" Margin="521,122,0,0" VerticalAlignment="Top"/>
+            <Label Content="Длина&#xA;" HorizontalAlignment="Left" Margin="521,77,0,0" VerticalAlignment="Top"/>
+
+        </Grid>
+
+    </Grid>
+</Window>
