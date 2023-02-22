@@ -1,0 +1,6 @@
+C:\Users\ЬШ\OneDrive\Рабочий стол\vp\ArtifactLibrary\bin\Debug\ArtifactLibrary.dll
+C:\Users\ЬШ\OneDrive\Рабочий стол\vp\ArtifactLibrary\bin\Debug\ArtifactLibrary.pdb
+C:\Users\ЬШ\OneDrive\Рабочий стол\vp\ArtifactLibrary\obj\Debug\ArtifactLibrary.csproj.AssemblyReference.cache
+C:\Users\ЬШ\OneDrive\Рабочий стол\vp\ArtifactLibrary\obj\Debug\ArtifactLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ЬШ\OneDrive\Рабочий стол\vp\ArtifactLibrary\obj\Debug\ArtifactLibrary.dll
+C:\Users\ЬШ\OneDrive\Рабочий стол\vp\ArtifactLibrary\obj\Debug\ArtifactLibrary.pdb

@@ -1,0 +1,32 @@
+﻿<Window x:Class="ArtifactApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ArtifactApp"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid Height="434" VerticalAlignment="Top">
+        <Grid x:Name="Grid1" Margin="23,26,420,47" Background="#FFABD6D5">
+            <Label Content="First Artifact" HorizontalAlignment="Center" Margin="0,33,0,0" VerticalAlignment="Top" FontFamily="Times New Roman" FontWeight="Bold" FontSize="24"/>
+            <Label Content="ImpactHP&#xD;&#xA;" HorizontalAlignment="Left" Margin="22,86,0,0" VerticalAlignment="Top" FontFamily="Times New Roman" FontSize="20"/>
+            <Label Content="ImpactDefence&#xD;&#xA;" HorizontalAlignment="Left" Margin="22,169,0,0" VerticalAlignment="Top" FontFamily="Times New Roman" FontSize="20"/>
+            <Label Content="ImpactAttack" HorizontalAlignment="Left" Margin="22,249,0,0" VerticalAlignment="Top" FontFamily="Times New Roman" FontSize="20"/>
+            <Button Content="-" HorizontalAlignment="Left" Margin="229,94,0,0" VerticalAlignment="Top" Click="Button_Click"/>
+            <Button Content="+" HorizontalAlignment="Left" Margin="293,94,0,0" VerticalAlignment="Top" Click="Button_Click_1"/>
+            <Button Content="-" HorizontalAlignment="Left" Margin="229,177,0,0" VerticalAlignment="Top"/>
+            <Button Content="+" HorizontalAlignment="Left" Margin="293,177,0,0" VerticalAlignment="Top"/>
+            <Button Content="-" HorizontalAlignment="Left" Margin="229,257,0,0" VerticalAlignment="Top"/>
+            <Button Content="+" HorizontalAlignment="Left" Margin="293,257,0,0" VerticalAlignment="Top"/>
+        </Grid>
+        <Grid x:Name="Grid2" Margin="414,26,29,47" Background="#FFC0F089">
+            <Label Content="Second Artifact" HorizontalAlignment="Center" Margin="0,33,0,0" VerticalAlignment="Top" FontFamily="Times New Roman" FontWeight="Bold" FontSize="24"/>
+            <Button x:Name="BuyButton2" Content="Buy !" HorizontalAlignment="Center" Margin="0,307,0,0" VerticalAlignment="Top" FontFamily="Times New Roman" FontSize="24" FontWeight="Bold" Height="33" Width="79"/>
+            <Label Content="ImpactHP&#xA;" HorizontalAlignment="Left" Margin="22,86,0,0" VerticalAlignment="Top" FontFamily="Times New Roman" FontSize="20"/>
+            <Label Content="ImpactDefence&#xA;" HorizontalAlignment="Left" Margin="22,169,0,0" VerticalAlignment="Top" FontFamily="Times New Roman" FontSize="20"/>
+            <Label Content="ImpactAttack" HorizontalAlignment="Left" Margin="22,249,0,0" VerticalAlignment="Top" FontFamily="Times New Roman" FontSize="20"/>
+        </Grid>
+        <Button x:Name="BuyButton1" Content="Buy !" HorizontalAlignment="Left" Margin="162,335,0,0" VerticalAlignment="Top" FontFamily="Times New Roman" FontSize="24" FontWeight="Bold" Height="33" Width="79"/>
+
+    </Grid>
+</Window>
