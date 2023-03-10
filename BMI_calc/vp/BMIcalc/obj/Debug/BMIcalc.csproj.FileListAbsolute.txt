@@ -1,0 +1,11 @@
+C:\Users\student\Desktop\BMI_calc\vp\BMIcalc\bin\Debug\BMIcalc.exe.config
+C:\Users\student\Desktop\BMI_calc\vp\BMIcalc\bin\Debug\BMIcalc.exe
+C:\Users\student\Desktop\BMI_calc\vp\BMIcalc\bin\Debug\BMIcalc.pdb
+C:\Users\student\Desktop\BMI_calc\vp\BMIcalc\obj\Debug\BMIcalc.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\BMI_calc\vp\BMIcalc\obj\Debug\BMIcalc.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\Desktop\BMI_calc\vp\BMIcalc\obj\Debug\BMIcalc.Form1.resources
+C:\Users\student\Desktop\BMI_calc\vp\BMIcalc\obj\Debug\BMIcalc.Properties.Resources.resources
+C:\Users\student\Desktop\BMI_calc\vp\BMIcalc\obj\Debug\BMIcalc.csproj.GenerateResource.cache
+C:\Users\student\Desktop\BMI_calc\vp\BMIcalc\obj\Debug\BMIcalc.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\BMI_calc\vp\BMIcalc\obj\Debug\BMIcalc.exe
+C:\Users\student\Desktop\BMI_calc\vp\BMIcalc\obj\Debug\BMIcalc.pdb
